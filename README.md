@@ -1,12 +1,24 @@
 # portfolio pure html
-Star me on GitHub—it helps!
+**Star me on GitHub—it helps!**
 ## Technologie used 🛠️
-HTML5
+**HTML5**
 ## Features
-<ul>
- <li>One Page Layout</li>
- <li>Free to Use ( OpenSource )</li>
-  <li>Short Codes</li>
-  <li>Easy to modify</li>
-   <li>Minimalist Design</li>
-</ul>
+* One Page Layout
+* Free to Use ( OpenSource )
+* hort Codes
+* Easy to modify
+* Minimalist Design
+
+## Sections
+ * About me
+ * video
+ * Contact
+ ## Why do you need a portfolio?
+ * Increases your visibility and online presence
+ * Professional way to showcase your work
+ ## Authors
+ * Fathy tarek fathy - https://github.com/fathy-gad
+ ## Available Translations
+ * English
+ * Arabic
+
