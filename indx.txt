@@ -1,0 +1,63 @@
+<!--<for understanding page language>-->
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<!--<the title of your site here>-->
+<title>fathy tarek - 519298</title>
+<!--<icon "cv" for website>-->
+<link rel="icon" href="img\icon.png">
+<!--<meta for search engin  >-->
+<meta name="Auther" content="fathy tarek gad">
+<meta name="Description" content="Hi ther this is my cv ">
+</head>
+<body bgcolor="#3C3939">
+<!--<logo my web site  >-->
+<header>
+<img src="img\logo .png" width="250" height="91" alt="erorr" align="left">
+<nav >
+  <ul align="right"  >
+      <li> <a href="#About" ><font size="5">About</font></a></li>
+      <li> <a href="#video"><font size="5">video</font></a></li>
+      <li> <a href="#Contact"><font size="5">Contact</font></a></li>
+  </ul>
+</nav>
+
+<hr color="#FFFFFF">
+</header>
+<section><h1 align="center"><font color="#FFFFFF" face="Essays1743"><a name="About">About</a></font></h1></section>
+<div align="left">
+<img src="img\img.png"  width="300" height="300" alt="erorr" align="left">
+    <p><font color="#FFFFFF" size="5"  face="Essays1743">&nbsp; Name: Fathy tarek fathy gad</font></p>
+    <p><font color="#FFFFFF" size="5" face="Essays1743">&nbsp; Age: 21</font></p>
+    <p><font color="#FFFFFF" size="5" face="Essays1743">&nbsp; Dapartment: Management information system - MIS</font></p>
+    <p><font color="#FFFFFF" size="5" face="Essays1743">&nbsp; About me: Hi everyone - I am interested in the Cloud DevOps and Linux Administration field. I have a &nbsp;&nbsp;huge passion to learn all about the new technologies and Market trends, I’m so flexible and adaptable with &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;changes, I'm very interested in virtualization and cloud in different infrastructure.</font></p>
+<h2><font color="#FFFFFF" size="5" face="Essays1743">html:</font><progress value="70" max="100"></progress></h2>  
+</div>
+<!--<video my web site  >-->
+<hr color="#FFFFFF">
+<section><h1  align="center"><font color="#FFFFFF" face="Essays1743"><a name="video"></a> video</font> </h1></section>
+<iframe src="video\021 - Module Intro + Checklist .mp4" frameborder="7"  width="100%" height="400"></iframe>
+<hr color="#FFFFFF">
+<section><h1  align="center"><font color="#FFFFFF" face="Essays1743"><a name="Contact"></a> Contact</font></h1></section>
+<!--Every field set must contain / encryptor /div-->
+<div>
+<form method="post">
+  <label for="name"><font color="#FFFFFF" face="Essays1743"> Name:</font></label><br>
+  <input  type="text"name="name" placeholder="Enter your Name" required autofocus>
+</div>
+<div >
+  <label for="Password:"><font color="#FFFFFF" face="Essays1743"> Password:</font></label><br>
+  <input type="password" name="password" placeholder="Enter your Password" required  minlength="8" >
+</div>
+<div><input type="hidden" name="encryptor" value="1"></div>
+<div>
+  <label for="Email" ><font color="#FFFFFF" face="Essays1743">Email:</font></label><br>
+  <input type="Email"name="Email"placeholder="Enter your Email"required>
+</div>
+<br>
+<div><textarea name="message"cols="40"rows="15"></textarea><br><br></div>
+<div><input type="submit" value="Submit">&nbsp;&nbsp;<input type="reset"></div>
+</form>
+</body>
+ <section><h4><center>All right reserved © Fathy tarek <a href="#">HOME</a></center></h4></section>
+</html>
